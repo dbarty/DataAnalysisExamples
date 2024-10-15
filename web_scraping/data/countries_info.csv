@@ -1,0 +1,251 @@
+country,gnp,unemployment_rate,lat,lon,languages,number_airports,highest_elevation
+Afghanistan,1.5,1,45.1,-79.9,Spanish;Portuguese,1,550
+Albania,3.0,2,45.2,-79.8,English;French,2,600
+Algeria,4.5,3,45.3,-79.7,Spanish;Portuguese,3,650
+American Samoa,6.0,4,45.4,-79.6,English;French,4,700
+Andorra,7.5,5,45.5,-79.5,Spanish;Portuguese,5,750
+Angola,9.0,6,45.6,-79.4,English;French,6,800
+Anguilla,10.5,7,45.7,-79.3,Spanish;Portuguese,7,850
+Antarctica,12.0,8,45.8,-79.2,English;French,8,900
+Antigua and Barbuda,13.5,9,45.9,-79.1,Spanish;Portuguese,9,950
+Argentina,15.0,10,46.0,-79.0,English;French,0,1000
+Armenia,16.5,11,46.1,-78.9,Spanish;Portuguese,1,1050
+Aruba,18.0,12,46.2,-78.8,English;French,2,1100
+Australia,19.5,13,46.3,-78.7,Spanish;Portuguese,3,1150
+Austria,21.0,14,46.4,-78.6,English;French,4,1200
+Azerbaijan,22.5,0,46.5,-78.5,Spanish;Portuguese,5,1250
+Bahamas,24.0,1,46.6,-78.4,English;French,6,1300
+Bahrain,25.5,2,46.7,-78.3,Spanish;Portuguese,7,1350
+Bangladesh,27.0,3,46.8,-78.2,English;French,8,1400
+Barbados,28.5,4,46.9,-78.1,Spanish;Portuguese,9,1450
+Belarus,30.0,5,47.0,-78.0,English;French,0,1500
+Belgium,31.5,6,47.1,-77.9,Spanish;Portuguese,1,1550
+Belize,33.0,7,47.2,-77.8,English;French,2,1600
+Benin,34.5,8,47.3,-77.7,Spanish;Portuguese,3,1650
+Bermuda,36.0,9,47.4,-77.6,English;French,4,1700
+Bhutan,37.5,10,47.5,-77.5,Spanish;Portuguese,5,1750
+Bolivia,39.0,11,47.6,-77.4,English;French,6,1800
+Bonaire,40.5,12,47.7,-77.3,Spanish;Portuguese,7,1850
+Bosnia and Herzegovina,42.0,13,47.8,-77.2,English;French,8,1900
+Botswana,43.5,14,47.9,-77.1,Spanish;Portuguese,9,1950
+Bouvet Island,45.0,0,48.0,-77.0,English;French,0,2000
+Brazil,46.5,1,48.1,-76.9,Spanish;Portuguese,1,2050
+British Indian Ocean Territory,48.0,2,48.2,-76.8,English;French,2,2100
+British Virgin Islands,49.5,3,48.3,-76.7,Spanish;Portuguese,3,2150
+Brunei,51.0,4,48.4,-76.6,English;French,4,2200
+Bulgaria,52.5,5,48.5,-76.5,Spanish;Portuguese,5,2250
+Burkina Faso,54.0,6,48.6,-76.4,English;French,6,2300
+Burundi,55.5,7,48.7,-76.3,Spanish;Portuguese,7,2350
+Cambodia,57.0,8,48.8,-76.2,English;French,8,2400
+Cameroon,58.5,9,48.9,-76.1,Spanish;Portuguese,9,2450
+Canada,60.0,10,49.0,-76.0,English;French,0,2500
+Cape Verde,61.5,11,49.1,-75.9,Spanish;Portuguese,1,2550
+Cayman Islands,63.0,12,49.2,-75.8,English;French,2,2600
+Central African Republic,64.5,13,49.3,-75.7,Spanish;Portuguese,3,2650
+Chad,66.0,14,49.4,-75.6,English;French,4,2700
+Chile,67.5,0,49.5,-75.5,Spanish;Portuguese,5,2750
+China,69.0,1,49.6,-75.4,English;French,6,2800
+Christmas Island,70.5,2,49.7,-75.3,Spanish;Portuguese,7,2850
+Cocos [Keeling] Islands,72.0,3,49.8,-75.2,English;French,8,2900
+Colombia,73.5,4,49.9,-75.1,Spanish;Portuguese,9,2950
+Comoros,75.0,5,50.0,-75.0,English;French,0,3000
+Cook Islands,76.5,6,50.1,-74.9,Spanish;Portuguese,1,3050
+Costa Rica,78.0,7,50.2,-74.8,English;French,2,3100
+Croatia,79.5,8,50.3,-74.7,Spanish;Portuguese,3,3150
+Cuba,81.0,9,50.4,-74.6,English;French,4,3200
+Curacao,82.5,10,50.5,-74.5,Spanish;Portuguese,5,3250
+Cyprus,84.0,11,50.6,-74.4,English;French,6,3300
+Czech Republic,85.5,12,50.7,-74.3,Spanish;Portuguese,7,3350
+Democratic Republic of the Congo,87.0,13,50.8,-74.2,English;French,8,3400
+Denmark,88.5,14,50.9,-74.1,Spanish;Portuguese,9,3450
+Djibouti,90.0,0,51.0,-74.0,English;French,0,3500
+Dominica,91.5,1,51.1,-73.9,Spanish;Portuguese,1,3550
+Dominican Republic,93.0,2,51.2,-73.8,English;French,2,3600
+East Timor,94.5,3,51.3,-73.7,Spanish;Portuguese,3,3650
+Ecuador,96.0,4,51.4,-73.6,English;French,4,3700
+Egypt,97.5,5,51.5,-73.5,Spanish;Portuguese,5,3750
+El Salvador,99.0,6,51.6,-73.4,English;French,6,3800
+Equatorial Guinea,100.5,7,51.7,-73.3,Spanish;Portuguese,7,3850
+Eritrea,102.0,8,51.8,-73.2,English;French,8,3900
+Estonia,103.5,9,51.9,-73.1,Spanish;Portuguese,9,3950
+Ethiopia,105.0,10,52.0,-73.0,English;French,0,4000
+Falkland Islands,106.5,11,52.1,-72.9,Spanish;Portuguese,1,4050
+Faroe Islands,108.0,12,52.2,-72.8,English;French,2,4100
+Fiji,109.5,13,52.3,-72.7,Spanish;Portuguese,3,4150
+Finland,111.0,14,52.4,-72.6,English;French,4,4200
+France,112.5,0,52.5,-72.5,Spanish;Portuguese,5,4250
+French Guiana,114.0,1,52.6,-72.4,English;French,6,4300
+French Polynesia,115.5,2,52.7,-72.3,Spanish;Portuguese,7,4350
+French Southern Territories,117.0,3,52.8,-72.2,English;French,8,4400
+Gabon,118.5,4,52.9,-72.1,Spanish;Portuguese,9,4450
+Gambia,120.0,5,53.0,-72.0,English;French,0,4500
+Georgia,121.5,6,53.1,-71.9,Spanish;Portuguese,1,4550
+Germany,123.0,7,53.2,-71.8,English;French,2,4600
+Ghana,124.5,8,53.3,-71.7,Spanish;Portuguese,3,4650
+Gibraltar,126.0,9,53.4,-71.6,English;French,4,4700
+Greece,127.5,10,53.5,-71.5,Spanish;Portuguese,5,4750
+Greenland,129.0,11,53.6,-71.4,English;French,6,4800
+Grenada,130.5,12,53.7,-71.3,Spanish;Portuguese,7,4850
+Guadeloupe,132.0,13,53.8,-71.2,English;French,8,4900
+Guam,133.5,14,53.9,-71.1,Spanish;Portuguese,9,4950
+Guatemala,135.0,0,54.0,-71.0,English;French,0,5000
+Guernsey,136.5,1,54.1,-70.9,Spanish;Portuguese,1,5050
+Guinea,138.0,2,54.2,-70.8,English;French,2,5100
+Guinea-Bissau,139.5,3,54.3,-70.7,Spanish;Portuguese,3,5150
+Guyana,141.0,4,54.4,-70.6,English;French,4,5200
+Haiti,142.5,5,54.5,-70.5,Spanish;Portuguese,5,5250
+Heard Island and McDonald Islands,144.0,6,54.6,-70.4,English;French,6,5300
+Honduras,145.5,7,54.7,-70.3,Spanish;Portuguese,7,5350
+Hong Kong,147.0,8,54.8,-70.2,English;French,8,5400
+Hungary,148.5,9,54.9,-70.1,Spanish;Portuguese,9,5450
+Iceland,150.0,10,55.0,-70.0,English;French,0,5500
+India,151.5,11,55.1,-69.9,Spanish;Portuguese,1,5550
+Indonesia,153.0,12,55.2,-69.8,English;French,2,5600
+Iran,154.5,13,55.3,-69.7,Spanish;Portuguese,3,5650
+Iraq,156.0,14,55.4,-69.6,English;French,4,5700
+Ireland,157.5,0,55.5,-69.5,Spanish;Portuguese,5,5750
+Isle of Man,159.0,1,55.6,-69.4,English;French,6,5800
+Israel,160.5,2,55.7,-69.3,Spanish;Portuguese,7,5850
+Italy,162.0,3,55.8,-69.2,English;French,8,5900
+Ivory Coast,163.5,4,55.9,-69.1,Spanish;Portuguese,9,5950
+Jamaica,165.0,5,56.0,-69.0,English;French,0,6000
+Japan,166.5,6,56.1,-68.9,Spanish;Portuguese,1,6050
+Jersey,168.0,7,56.2,-68.8,English;French,2,6100
+Jordan,169.5,8,56.3,-68.7,Spanish;Portuguese,3,6150
+Kazakhstan,171.0,9,56.4,-68.6,English;French,4,6200
+Kenya,172.5,10,56.5,-68.5,Spanish;Portuguese,5,6250
+Kiribati,174.0,11,56.6,-68.4,English;French,6,6300
+Kosovo,175.5,12,56.7,-68.3,Spanish;Portuguese,7,6350
+Kuwait,177.0,13,56.8,-68.2,English;French,8,6400
+Kyrgyzstan,178.5,14,56.9,-68.1,Spanish;Portuguese,9,6450
+Laos,180.0,0,57.0,-68.0,English;French,0,6500
+Latvia,181.5,1,57.1,-67.9,Spanish;Portuguese,1,6550
+Lebanon,183.0,2,57.2,-67.8,English;French,2,6600
+Lesotho,184.5,3,57.3,-67.7,Spanish;Portuguese,3,6650
+Liberia,186.0,4,57.4,-67.6,English;French,4,6700
+Libya,187.5,5,57.5,-67.5,Spanish;Portuguese,5,6750
+Liechtenstein,189.0,6,57.6,-67.4,English;French,6,6800
+Lithuania,190.5,7,57.7,-67.3,Spanish;Portuguese,7,6850
+Luxembourg,192.0,8,57.8,-67.2,English;French,8,6900
+Macao,193.5,9,57.9,-67.1,Spanish;Portuguese,9,6950
+Macedonia,195.0,10,58.0,-67.0,English;French,0,7000
+Madagascar,196.5,11,58.1,-66.9,Spanish;Portuguese,1,7050
+Malawi,198.0,12,58.2,-66.8,English;French,2,7100
+Malaysia,199.5,13,58.3,-66.7,Spanish;Portuguese,3,7150
+Maldives,201.0,14,58.4,-66.6,English;French,4,7200
+Mali,202.5,0,58.5,-66.5,Spanish;Portuguese,5,7250
+Malta,204.0,1,58.6,-66.4,English;French,6,7300
+Marshall Islands,205.5,2,58.7,-66.3,Spanish;Portuguese,7,7350
+Martinique,207.0,3,58.8,-66.2,English;French,8,7400
+Mauritania,208.5,4,58.9,-66.1,Spanish;Portuguese,9,7450
+Mauritius,210.0,5,59.0,-66.0,English;French,0,7500
+Mayotte,211.5,6,59.1,-65.9,Spanish;Portuguese,1,7550
+Mexico,213.0,7,59.2,-65.8,English;French,2,7600
+Micronesia,214.5,8,59.3,-65.7,Spanish;Portuguese,3,7650
+Moldova,216.0,9,59.4,-65.6,English;French,4,7700
+Monaco,217.5,10,59.5,-65.5,Spanish;Portuguese,5,7750
+Mongolia,219.0,11,59.6,-65.4,English;French,6,7800
+Montenegro,220.5,12,59.7,-65.3,Spanish;Portuguese,7,7850
+Montserrat,222.0,13,59.8,-65.2,English;French,8,7900
+Morocco,223.5,14,59.9,-65.1,Spanish;Portuguese,9,7950
+Mozambique,225.0,0,60.0,-65.0,English;French,0,8000
+Myanmar [Burma],226.5,1,60.1,-64.9,Spanish;Portuguese,1,8050
+Namibia,228.0,2,60.2,-64.8,English;French,2,8100
+Nauru,229.5,3,60.3,-64.7,Spanish;Portuguese,3,8150
+Nepal,231.0,4,60.4,-64.6,English;French,4,8200
+Netherlands,232.5,5,60.5,-64.5,Spanish;Portuguese,5,8250
+New Caledonia,234.0,6,60.6,-64.4,English;French,6,8300
+New Zealand,235.5,7,60.7,-64.3,Spanish;Portuguese,7,8350
+Nicaragua,237.0,8,60.8,-64.2,English;French,8,8400
+Niger,238.5,9,60.9,-64.1,Spanish;Portuguese,9,8450
+Nigeria,240.0,10,61.0,-64.0,English;French,0,8500
+Niue,241.5,11,61.1,-63.9,Spanish;Portuguese,1,8550
+Norfolk Island,243.0,12,61.2,-63.8,English;French,2,8600
+North Korea,244.5,13,61.3,-63.7,Spanish;Portuguese,3,8650
+Northern Mariana Islands,246.0,14,61.4,-63.6,English;French,4,8700
+Norway,247.5,0,61.5,-63.5,Spanish;Portuguese,5,8750
+Oman,249.0,1,61.6,-63.4,English;French,6,8800
+Pakistan,250.5,2,61.7,-63.3,Spanish;Portuguese,7,8850
+Palau,252.0,3,61.8,-63.2,English;French,8,8900
+Palestine,253.5,4,61.9,-63.1,Spanish;Portuguese,9,8950
+Panama,255.0,5,62.0,-63.0,English;French,0,9000
+Papua New Guinea,256.5,6,62.1,-62.9,Spanish;Portuguese,1,9050
+Paraguay,258.0,7,62.2,-62.8,English;French,2,9100
+Peru,259.5,8,62.3,-62.7,Spanish;Portuguese,3,9150
+Philippines,261.0,9,62.4,-62.6,English;French,4,9200
+Pitcairn Islands,262.5,10,62.5,-62.5,Spanish;Portuguese,5,9250
+Poland,264.0,11,62.6,-62.4,English;French,6,9300
+Portugal,265.5,12,62.7,-62.3,Spanish;Portuguese,7,9350
+Puerto Rico,267.0,13,62.8,-62.2,English;French,8,9400
+Qatar,268.5,14,62.9,-62.1,Spanish;Portuguese,9,9450
+Republic of the Congo,270.0,0,63.0,-62.0,English;French,0,9500
+Romania,271.5,1,63.1,-61.9,Spanish;Portuguese,1,9550
+Russia,273.0,2,63.2,-61.8,English;French,2,9600
+Rwanda,274.5,3,63.3,-61.7,Spanish;Portuguese,3,9650
+Réunion,276.0,4,63.4,-61.6,English;French,4,9700
+Saint Barthélemy,277.5,5,63.5,-61.5,Spanish;Portuguese,5,9750
+Saint Helena,279.0,6,63.6,-61.4,English;French,6,9800
+Saint Kitts and Nevis,280.5,7,63.7,-61.3,Spanish;Portuguese,7,9850
+Saint Lucia,282.0,8,63.8,-61.2,English;French,8,9900
+Saint Martin,283.5,9,63.9,-61.1,Spanish;Portuguese,9,9950
+Saint Pierre and Miquelon,285.0,10,64.0,-61.0,English;French,0,10000
+Saint Vincent and the Grenadines,286.5,11,64.1,-60.9,Spanish;Portuguese,1,10050
+Samoa,288.0,12,64.2,-60.8,English;French,2,10100
+San Marino,289.5,13,64.3,-60.7,Spanish;Portuguese,3,10150
+Saudi Arabia,291.0,14,64.4,-60.6,English;French,4,10200
+Senegal,292.5,0,64.5,-60.5,Spanish;Portuguese,5,10250
+Serbia,294.0,1,64.6,-60.4,English;French,6,10300
+Seychelles,295.5,2,64.7,-60.3,Spanish;Portuguese,7,10350
+Sierra Leone,297.0,3,64.8,-60.2,English;French,8,10400
+Singapore,298.5,4,64.9,-60.1,Spanish;Portuguese,9,10450
+Sint Maarten,300.0,5,65.0,-60.0,English;French,0,10500
+Slovakia,301.5,6,65.1,-59.9,Spanish;Portuguese,1,10550
+Slovenia,303.0,7,65.2,-59.8,English;French,2,10600
+Solomon Islands,304.5,8,65.3,-59.7,Spanish;Portuguese,3,10650
+Somalia,306.0,9,65.4,-59.6,English;French,4,10700
+South Africa,307.5,10,65.5,-59.5,Spanish;Portuguese,5,10750
+South Georgia and the South Sandwich Islands,309.0,11,65.6,-59.4,English;French,6,10800
+South Korea,310.5,12,65.7,-59.3,Spanish;Portuguese,7,10850
+South Sudan,312.0,13,65.8,-59.2,English;French,8,10900
+Spain,313.5,14,65.9,-59.1,Spanish;Portuguese,9,10950
+Sri Lanka,315.0,0,66.0,-59.0,English;French,0,11000
+Sudan,316.5,1,66.1,-58.9,Spanish;Portuguese,1,11050
+Suriname,318.0,2,66.2,-58.8,English;French,2,11100
+Svalbard and Jan Mayen,319.5,3,66.3,-58.7,Spanish;Portuguese,3,11150
+Swaziland,321.0,4,66.4,-58.6,English;French,4,11200
+Sweden,322.5,5,66.5,-58.5,Spanish;Portuguese,5,11250
+Switzerland,324.0,6,66.6,-58.4,English;French,6,11300
+Syria,325.5,7,66.7,-58.3,Spanish;Portuguese,7,11350
+São Tomé and Príncipe,327.0,8,66.8,-58.2,English;French,8,11400
+Taiwan,328.5,9,66.9,-58.1,Spanish;Portuguese,9,11450
+Tajikistan,330.0,10,67.0,-58.0,English;French,0,11500
+Tanzania,331.5,11,67.1,-57.9,Spanish;Portuguese,1,11550
+Thailand,333.0,12,67.2,-57.8,English;French,2,11600
+Togo,334.5,13,67.3,-57.7,Spanish;Portuguese,3,11650
+Tokelau,336.0,14,67.4,-57.6,English;French,4,11700
+Tonga,337.5,0,67.5,-57.5,Spanish;Portuguese,5,11750
+Trinidad and Tobago,339.0,1,67.6,-57.4,English;French,6,11800
+Tunisia,340.5,2,67.7,-57.3,Spanish;Portuguese,7,11850
+Turkey,342.0,3,67.8,-57.2,English;French,8,11900
+Turkmenistan,343.5,4,67.9,-57.1,Spanish;Portuguese,9,11950
+Turks and Caicos Islands,345.0,5,68.0,-57.0,English;French,0,12000
+Tuvalu,346.5,6,68.1,-56.9,Spanish;Portuguese,1,12050
+U.S. Minor Outlying Islands,348.0,7,68.2,-56.8,English;French,2,12100
+U.S. Virgin Islands,349.5,8,68.3,-56.7,Spanish;Portuguese,3,12150
+Uganda,351.0,9,68.4,-56.6,English;French,4,12200
+Ukraine,352.5,10,68.5,-56.5,Spanish;Portuguese,5,12250
+United Arab Emirates,354.0,11,68.6,-56.4,English;French,6,12300
+United Kingdom,355.5,12,68.7,-56.3,Spanish;Portuguese,7,12350
+United States,357.0,13,68.8,-56.2,English;French,8,12400
+Uruguay,358.5,14,68.9,-56.1,Spanish;Portuguese,9,12450
+Uzbekistan,360.0,0,69.0,-56.0,English;French,0,12500
+Vanuatu,361.5,1,69.1,-55.9,Spanish;Portuguese,1,12550
+Vatican City,363.0,2,69.2,-55.8,English;French,2,12600
+Venezuela,364.5,3,69.3,-55.7,Spanish;Portuguese,3,12650
+Vietnam,366.0,4,69.4,-55.6,English;French,4,12700
+Wallis and Futuna,367.5,5,69.5,-55.5,Spanish;Portuguese,5,12750
+Western Sahara,369.0,6,69.6,-55.4,English;French,6,12800
+Yemen,370.5,7,69.7,-55.3,Spanish;Portuguese,7,12850
+Zambia,372.0,8,69.8,-55.2,English;French,8,12900
+Zimbabwe,373.5,9,69.9,-55.1,Spanish;Portuguese,9,12950
+Åland,375.0,10,70.0,-55.0,English;French,0,13000
