@@ -14,7 +14,7 @@
         <strong>Data Collection</strong>
         <ul>
             <li><strong>Identify data sources:</strong> Determine which data sources are needed for the analysis (e.g., databases, APIs, files).</li>
-            <li><strong>Collect data:</strong> Extract data from the identified sources. This can be done through queries, <a href="https://github.com/dbarty/DataAnalysisExamples/tree/main/data-collection/web-scraping">web scraping</a>, APIs, or CSV uploads.</li>
+            <li><strong>Collect data:</strong> Extract data from the identified sources. This can be done through <a href="https://github.com/dbarty/DataAnalysisExamples/tree/main/data-collection/database">queries</a>, <a href="https://github.com/dbarty/DataAnalysisExamples/tree/main/data-collection/web-scraping">web scraping</a>, <a href="https://github.com/dbarty/DataAnalysisExamples/tree/main/data-collection/api">APIs</a>, or <a href="https://github.com/dbarty/DataAnalysisExamples/tree/main/data-collection/files">CSV uploads</a>.</li>
             <li><strong>Document the data:</strong> Record where the data came from and what features (attributes) it contains.</li>
         </ul>
     </li>
