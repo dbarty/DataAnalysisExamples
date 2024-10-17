@@ -23,7 +23,7 @@
         <ul>
             <li><strong>Understand the data structure:</strong> Examine the data type, dimensions (rows and columns), and data distribution.</li>
             <li><strong>Calculate descriptive statistics:</strong> Compute central measures such as mean, median, standard deviation, min/max, etc.</li>
-            <li><strong>Visualize the data:</strong> Create charts (e.g., bar charts, box plots, scatter plots) to identify patterns, distributions, or relationships between variables.</li>
+            <li><strong>Visualize the data:</strong> <a href="https://github.com/dbarty/DataAnalysisExamples/tree/main/exploratory-data-analysis-EDA/visualisation">Create charts</a> (e.g., bar charts, box plots, scatter plots) to identify patterns, distributions, or relationships between variables.</li>
             <li><strong>Identify correlations:</strong> Determine correlations between variables to detect possible relationships.</li>
             <li><strong>Outlier detection:</strong> Identify outliers and unusual data points that could influence the analysis.</li>
         </ul>
