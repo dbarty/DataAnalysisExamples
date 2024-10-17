@@ -37,7 +37,7 @@
             <li><strong>Feature engineering to improve model performance:</strong></li>
             <ul>
                 <li><strong>Transformations:</strong> Apply mathematical transformations (e.g., logarithmic, square root) to smooth distributions.</li>
-                <li><strong>Encode categorical data:</strong> Use <a href="data-processing/one-hot-encoding.jpynb">one-hot encoding</a> or label encoding for categorical data.</li>
+                <li><strong>Encode categorical data:</strong> Use <a href="data-processing/one-hot-encoding.jpynb">one-hot encoding</a> or <a href="data-processing/label-encoding.jpynb">label encoding</a> for categorical data.</li>
                 <li><strong>Create new features:</strong> Generate new variables, e.g., by combining existing features (e.g., creating a ratio from two variables).</li>
                 <li><strong>Interaction variables:</strong> Create features that capture interactions between variables (e.g., product of two variables).</li>
             </ul>
