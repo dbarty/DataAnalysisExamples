@@ -33,7 +33,7 @@
       <li><strong>Data Cleaning:</strong> The process of removing or correcting errors and inconsistencies in a dataset to ensure accurate analysis.</li>
       <li><strong>Deep Learning:</strong> A subset of machine learning involving neural networks with many layers, capable of learning complex patterns in data.</li>
       <li><strong>Dimensionality Reduction:</strong> The process of reducing the number of input variables in a dataset, often used to simplify models and avoid overfitting.</li>
-      <li><strong>Decision Tree:</strong> A supervised learning algorithm that splits the data into branches to make predictions based on feature values.</li>
+      <li><strong><a href="https://github.com/dbarty/DataAnalysisExamples/blob/main/machine-learning/decision-tree.ipynb">Decision Tree</a>:</strong> A supervised learning algorithm that splits the data into branches to make predictions based on feature values.</li>
     </ul>
   </li>
 
@@ -83,16 +83,16 @@
 
   <li><strong>K</strong>
     <ul>
-      <li><strong>K-Nearest Neighbors (KNN):</strong> A supervised learning algorithm that classifies new instances based on their proximity to existing labeled instances.</li>
-      <li><strong>K-Means Clustering:</strong> A popular unsupervised learning algorithm that partitions data into K distinct clusters based on feature similarity.</li>
+      <li><strong><a href="https://github.com/dbarty/DataAnalysisExamples/blob/main/machine-learning/k-nearest-neighbor-KNN.ipynb">K-Nearest Neighbors (KNN)</a>:</strong> A supervised learning algorithm that classifies new instances based on their proximity to existing labeled instances.</li>
+      <li><strong><a href="https://github.com/dbarty/DataAnalysisExamples/blob/main/machine-learning/k-means-clustering.ipynb">K-Means Clustering</a>:</strong> A popular unsupervised learning algorithm that partitions data into K distinct clusters based on feature similarity.</li>
       <li><strong>Kernel:</strong> A function used in support vector machines and other algorithms to transform data into a higher-dimensional space for better separation.</li>
     </ul>
   </li>
 
   <li><strong>L</strong>
     <ul>
-      <li><strong>Logistic Regression:</strong> A classification algorithm used to model the probability of a binary outcome based on one or more independent variables.</li>
-      <li><strong>Linear Regression:</strong> A regression algorithm that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the data.</li>
+      <li><strong><a href="https://github.com/dbarty/DataAnalysisExamples/blob/main/machine-learning/logistic-regression.ipynb">Logistic Regression</a>:</strong> A classification algorithm used to model the probability of a binary outcome based on one or more independent variables.</li>
+      <li><strong><a href="https://github.com/dbarty/DataAnalysisExamples/blob/main/machine-learning/linear-regression.ipynb">Linear Regression</a>:</strong> A regression algorithm that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the data.</li>
       <li><strong>Loss Function:</strong> A function that measures how well a machine learning model's predictions match the actual outcomes, used to guide model optimization.</li>
       <li><strong>Latent Variable:</strong> A hidden or unobserved variable that influences observed variables in a dataset, often used in dimensionality reduction.</li>
     </ul>
@@ -101,7 +101,7 @@
   <li><strong>M</strong>
     <ul>
       <li><strong>Model:</strong> A mathematical representation of a real-world process or system that is used to make predictions based on input data.</li>
-      <li><strong>Machine Learning:</strong> A branch of artificial intelligence focused on building systems that can learn from and make decisions based on data.</li>
+      <li><strong><a href="https://github.com/dbarty/DataAnalysisExamples/tree/main/machine-learning">Machine Learning</a>:</strong> A branch of artificial intelligence focused on building systems that can learn from and make decisions based on data.</li>
       <li><strong>Mean Squared Error (MSE):</strong> A common loss function used in regression analysis to measure the average squared difference between predicted and actual values.</li>
       <li><strong>Monte Carlo Simulation:</strong> A computational technique that uses random sampling to estimate the probability distribution of an uncertain variable.</li>
     </ul>
@@ -146,7 +146,7 @@
     <ul>
       <li><strong>Recall:</strong> A metric for evaluating a classification model, representing the ratio of true positive predictions to the total actual positives.</li>
       <li><strong>Regression:</strong> A supervised learning task where the goal is to predict a continuous outcome based on input features.</li>
-      <li><strong>Random Forest:</strong> An ensemble learning technique that builds multiple decision trees and merges their predictions to improve accuracy and reduce overfitting.</li>
+      <li><strong><a href="https://github.com/dbarty/DataAnalysisExamples/blob/main/machine-learning/random-forest.ipynb">Random Forest</a>:</strong> An ensemble learning technique that builds multiple decision trees and merges their predictions to improve accuracy and reduce overfitting.</li>
       <li><strong>Regularization:</strong> A technique used to prevent overfitting by adding a penalty to the loss function for more complex models.</li>
     </ul>
   </li>
@@ -154,7 +154,7 @@
   <li><strong>S</strong>
     <ul>
       <li><strong>Supervised Learning:</strong> A type of machine learning where the model is trained on labeled data, learning to predict the output from the input features.</li>
-      <li><strong>SVM (Support Vector Machine):</strong> A supervised learning algorithm used for classification and regression that finds the optimal hyperplane to separate classes.</li>
+      <li><strong><a href="https://github.com/dbarty/DataAnalysisExamples/blob/main/machine-learning/support-vector-machine-SVM.ipynb">SVM (Support Vector Machine)</a>:</strong> A supervised learning algorithm used for classification and regression that finds the optimal hyperplane to separate classes.</li>
       <li><strong>Stochastic Gradient Descent (SGD):</strong> A variant of gradient descent that updates model parameters based on a small subset (batch) of the training data.</li>
       <li><strong>Statistical Significance:</strong> A measure of whether the result of an analysis is likely to have occurred by chance, often determined using a p-value.</li>
     </ul>
